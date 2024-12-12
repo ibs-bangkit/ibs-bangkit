@@ -14,13 +14,13 @@ IBS adalah aplikasi inovatif yang dirancang untuk mendukung upaya pengelolaan sa
 - **User-Friendly Interface**: Antarmuka yang sederhana dan mudah digunakan untuk semua kalangan.
 
 ## 🔧 **Teknologi yang Digunakan**
-- **Bahasa Pemrograman**: Python
-- **Framework & Library**:
+- **Bahasa Pemrograman**: Python dan Javascript
+- **Framework, Library, & Cloud Service**:
   - TensorFlow & Keras (model deteksi sampah)
-  - CloudRun
-  - CloudStorage
-  - FireBash
-  - FireStone
+  - Cloud Run
+  - Cloud Storage
+  - Firebase
+  - Firestore
   - OpenCV (pengolahan gambar)
 - **Platform**: Google Colaboratory untuk pelatihan model dan pengolahan data
 - **Manajemen Dataset**: Google Drive
