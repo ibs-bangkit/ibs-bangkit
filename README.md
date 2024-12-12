@@ -17,7 +17,7 @@ IBS adalah aplikasi inovatif yang dirancang untuk mendukung upaya pengelolaan sa
 - **Bahasa Pemrograman**: Python
 - **Framework & Library**:
   - TensorFlow & Keras (model deteksi sampah)
-  - CloudRun (antarmuka pengguna)
+  - CloudRun
   - CloudStorage
   - FireBash
   - FireStone
