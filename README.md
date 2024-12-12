@@ -17,33 +17,13 @@ IBS adalah aplikasi inovatif yang dirancang untuk mendukung upaya pengelolaan sa
 - **Bahasa Pemrograman**: Python
 - **Framework & Library**:
   - TensorFlow & Keras (model deteksi sampah)
-  - Streamlit (antarmuka pengguna)
+  - CloudRun (antarmuka pengguna)
+  - CloudStorage
+  - FireBash
+  - FireStone
   - OpenCV (pengolahan gambar)
 - **Platform**: Google Colaboratory untuk pelatihan model dan pengolahan data
 - **Manajemen Dataset**: Google Drive
-
-## 📂 **Struktur Direktori**
-```
-IBS/
-├── app.py                 # Aplikasi Streamlit untuk deteksi sampah
-├── model/
-│   ├── trash_classifier_model.h5   # Model yang telah dilatih
-├── dataset/
-│   ├── train/             # Dataset pelatihan
-│   ├── validation/        # Dataset validasi
-└── README.md              # Dokumentasi proyek
-```
-
-## 🔧 **Cara Menggunakan**
-1. **Clone repositori ini**:
-   ```bash
-   git clone https://github.com/username/IBS.git
-   ```
-2. **Jalankan aplikasi Streamlit**:
-   ```bash
-   streamlit run app.py
-   ```
-3. Unggah gambar sampah melalui antarmuka, dan aplikasi akan mendeteksi jenis sampah serta memberikan rekomendasi pengelolaannya.
 
 ## 🌟 **Kontribusi**
 Kami sangat terbuka untuk kontribusi dari komunitas! Anda dapat membantu dengan:
@@ -53,5 +33,5 @@ Kami sangat terbuka untuk kontribusi dari komunitas! Anda dapat membantu dengan:
 
 ## 📢 **Hubungi Kami**
 Jika Anda memiliki pertanyaan, saran, atau ingin berdiskusi lebih lanjut, jangan ragu untuk menghubungi kami:
-- **Email**: bebas.sampah@gmail.com
+- **Email**: capstoneibsbangkit@gmail.com
 - **GitHub Issues**: Silakan buka _issue_ di repositori ini.
