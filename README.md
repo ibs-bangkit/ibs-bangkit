@@ -31,6 +31,26 @@ We warmly welcome contributions from the community! You can help by:
 - Fixing bugs or improving application performance.
 - Providing ideas for further development.
 
+# The Team  
+
+| Member                         | Student ID     | University                                    | Path                 |
+|------------------------------- |----------------|-----------------------------------------------|:--------------------:|
+| Fedricko Anggola               | A102B4KY1472   | Institut Bisnis Dan Informatika Kwik Kian Gie | Mobile Development   |         
+| Kevin Sandjaja                 | A102B4KY2188   | Institut Bisnis Dan Informatika Kwik Kian Gie | Mobile Development   |         
+| Dewa Made Adrian Pramadipta    | M015B4KY107    | Universitas Negeri Yogyakarta                 | Machine Learning     |         
+| Felix Valentino Sianturi       | M102B4KY1477   | Institut Bisnis Dan Informatika Kwik Kian Gie | Machine Learning     |         
+| Niko Riant Cahyono             | M378B4KY3371   | Universitas Islam Balitar                     | Machine Learning     |         
+| Muhammad Rizal Razaan          | C378B4KY3055   | Universitas Islam Balitar                     | Cloud Computing      |        
+| Stephanus Veri Nugroho         | C102B4KY4206   | Institut Bisnis Dan Informatika Kwik Kian Gie | Cloud Computing      |       
+
+# Repositories
+
+|   Learning Paths   |                                Link                                |
+| :----------------  | :----------------------------------------------------------------: |
+| Mobile Development | [Github](https://github.com/ibs-bangkit/IBS-bangkit-mobile-development) |
+| Machine Learning   | [Github](https://github.com/ibs-bangkit/IBS-bangkit-machine-learning)  |
+| Cloud Computing    | [Github](https://github.com/ibs-bangkit/IBS-bangkit-cloud-computing)  |
+
 ## 📢 **Contact Us**
 If you have questions, suggestions, or want to discuss further, feel free to reach out:
 - **Email**: capstoneibsbangkit@gmail.com
