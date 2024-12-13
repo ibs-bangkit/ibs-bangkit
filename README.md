@@ -14,7 +14,7 @@ IBS is an innovative application designed to support effective and efficient was
 - **User-Friendly Interface**: A simple and intuitive interface accessible to all users.
 
 ## 🔧 **Technologies Used**
-- **Programming Languages**: Python and JavaScript
+- **Programming Languages**: Python, Kotlin and JavaScript
 - **Frameworks, Libraries, & Cloud Services**:
   - TensorFlow & Keras (waste detection model)
   - Cloud Run
@@ -22,6 +22,8 @@ IBS is an innovative application designed to support effective and efficient was
   - Firebase
   - Firestore
   - OpenCV (image processing)
+  - Android Studio
+  - Retrofit
 - **Platform**: Google Colaboratory for model training and data processing
 - **Dataset Management**: Google Drive
 
