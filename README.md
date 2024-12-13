@@ -1,37 +1,37 @@
 # 🌍 Indonesia Bebas Sampah (IBS)
 
-Selamat datang di repositori **Indonesia Bebas Sampah (IBS)**!  
-IBS adalah aplikasi inovatif yang dirancang untuk mendukung upaya pengelolaan sampah secara efektif dan efisien di Indonesia. Dengan aplikasi ini, kami bertujuan untuk mendorong masyarakat dalam memilah dan mendaur ulang sampah untuk menciptakan lingkungan yang lebih bersih dan hijau.
+Welcome to the **Indonesia Bebas Sampah (IBS)** repository!  
+IBS is an innovative application designed to support effective and efficient waste management in Indonesia. With this app, we aim to encourage the community to sort and recycle waste to create a cleaner and greener environment.
 
-## 🌟 **Tujuan Aplikasi**
-- Mempermudah identifikasi jenis sampah seperti **logam, plastik, dan kertas** menggunakan teknologi **machine learning**.
-- Memberikan **rekomendasi pengelolaan sampah** yang ramah lingkungan.
-- Mendukung Indonesia dalam mencapai target bebas sampah dengan memanfaatkan teknologi digital.
+## 🌟 **Purpose of the Application**
+- Simplify the identification of waste types such as **metal, plastic, and paper** using **machine learning** technology.
+- Provide **eco-friendly waste management recommendations**.
+- Support Indonesia in achieving a waste-free goal by leveraging digital technology.
 
-## 🚀 **Fitur Utama**
-- **Deteksi Sampah Otomatis**: Mengunggah gambar sampah dan langsung mendapatkan informasi jenis sampahnya.
-- **Rekomendasi Pengelolaan**: Memberikan saran untuk mendaur ulang atau membuang sampah dengan cara yang benar.
-- **User-Friendly Interface**: Antarmuka yang sederhana dan mudah digunakan untuk semua kalangan.
+## 🚀 **Key Features**
+- **Automatic Waste Detection**: Upload waste images and instantly get information about their type.
+- **Management Recommendations**: Suggest ways to recycle or dispose of waste properly.
+- **User-Friendly Interface**: A simple and intuitive interface accessible to all users.
 
-## 🔧 **Teknologi yang Digunakan**
-- **Bahasa Pemrograman**: Python dan Javascript
-- **Framework, Library, & Cloud Service**:
-  - TensorFlow & Keras (model deteksi sampah)
+## 🔧 **Technologies Used**
+- **Programming Languages**: Python and JavaScript
+- **Frameworks, Libraries, & Cloud Services**:
+  - TensorFlow & Keras (waste detection model)
   - Cloud Run
   - Cloud Storage
   - Firebase
   - Firestore
-  - OpenCV (pengolahan gambar)
-- **Platform**: Google Colaboratory untuk pelatihan model dan pengolahan data
-- **Manajemen Dataset**: Google Drive
+  - OpenCV (image processing)
+- **Platform**: Google Colaboratory for model training and data processing
+- **Dataset Management**: Google Drive
 
-## 🌟 **Kontribusi**
-Kami sangat terbuka untuk kontribusi dari komunitas! Anda dapat membantu dengan:
-- Menambahkan fitur baru.
-- Memperbaiki bug atau meningkatkan kinerja aplikasi.
-- Memberikan ide untuk pengembangan lebih lanjut.
+## 🌟 **Contributions**
+We warmly welcome contributions from the community! You can help by:
+- Adding new features.
+- Fixing bugs or improving application performance.
+- Providing ideas for further development.
 
-## 📢 **Hubungi Kami**
-Jika Anda memiliki pertanyaan, saran, atau ingin berdiskusi lebih lanjut, jangan ragu untuk menghubungi kami:
+## 📢 **Contact Us**
+If you have questions, suggestions, or want to discuss further, feel free to reach out:
 - **Email**: capstoneibsbangkit@gmail.com
-- **GitHub Issues**: Silakan buka _issue_ di repositori ini.
+- **GitHub Issues**: Open an issue in this repository.
